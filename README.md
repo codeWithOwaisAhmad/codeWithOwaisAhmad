@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Android Development Using Java**
 
-- 💬 Ask me about **Android , Object Oriented Programming**
+- 💬 Ask me about **Android , Object Oriented Programming , Java**
 
 - 📫 How to reach me **chaudharyowais971@gmail.com**
 
