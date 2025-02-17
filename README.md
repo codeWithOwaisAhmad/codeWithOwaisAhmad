@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owais Ahmad</h1>
 <h3 align="center">The Alchemist of AI: Transforming Ideas into Extraordinary Solutions</h3>
+<img align = "right" width = "400" src = "C:\Users\sh\Downloads\DALL·E 2025-02-17 12.04.58 - A dynamic, futuristic AI-themed header image for a GitHub profile, illustrating the journey from Classical AI to modern AI agents. The image should bl.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithowaisahmad&label=Profile%20views&color=0e75b6&style=flat" alt="codewithowaisahmad" /> </p>
 
